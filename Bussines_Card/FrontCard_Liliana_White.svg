@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3"
-     inkscape:cx="151.51543"
+     inkscape:cx="144.84063"
      inkscape:cy="84.844899"
      inkscape:document-units="in"
      inkscape:current-layer="layer3"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -242,22 +242,22 @@
          sodipodi:role="line"
          x="29.92746"
          y="116.69801"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan6880-7">Hospital Infantil de México Federico Gómez</tspan><tspan
          sodipodi:role="line"
          x="29.92746"
          y="124.51051"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan6905">Torre de Hemato-oncología e Investigación</tspan><tspan
          sodipodi:role="line"
          x="29.92746"
          y="132.32301"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan6907">Dr. Márquez 162, Cuauhtémoc</tspan><tspan
          sodipodi:role="line"
          x="29.92746"
          y="140.13551"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Ultra-Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan6909">06720, Ciudad de México, México.</tspan></text>
     <text
        xml:space="preserve"
@@ -286,7 +286,7 @@
          sodipodi:role="line"
          x="185.8598"
          y="81.76458"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#004082;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:10px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Ultra-Bold';text-align:start;writing-mode:lr;text-anchor:start;fill:#004082;fill-opacity:1"
          id="tspan6880-6">Liliana M. Moreno Vargas</tspan></text>
     <text
        xml:space="preserve"
@@ -339,6 +339,22 @@
          y="150.98802"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan7035">lmoreno@himfg.edu.mx</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="QR"
+     sodipodi:insensitive="true">
+    <g
+       transform="matrix(0.1,0,0,0.1,291.93333,156.1)"
+       id="elements"
+       style="fill:#000000;fill-opacity:0.6745098;stroke:none;stroke-opacity:0.6745098">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:0.6745098;stroke:none;stroke-opacity:0.6745098"
+         d="m 8,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 64,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -152,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -160,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -216,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 64,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m -216,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -192,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 40,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m -216,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -200,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 56,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -208,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 40,0 8,0 0,8 -8,0 z m -208,8 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m -200,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 56,0 8,0 0,8 -8,0 z m -208,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 64,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 40,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -208,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 56,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m -216,8 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -160,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 56,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -208,8 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -216,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -224,8 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m -216,8 8,0 0,8 -8,0 z m 48,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 32,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m -216,8 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 24,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 16,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z m 8,0 8,0 0,8 -8,0 z"
+         id="path11" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
